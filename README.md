@@ -3,8 +3,8 @@ yuriwc/yuriwc is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 ## Eu sou Yuri Cavalcante (@yuriwc), desenvolvedor front-end!
-- 👀 Atualmente trabalho com o Desenvolvimento Front-End em um Software estruturado em MVC com Django. Com dois aplicativos construídos em React Native. E iniciando um novo projeto com o Vue.
-- 🚀 Atualmente tenho estudado bastante o Swift, tendo em vista que amo programar para dispositivos móveis. Com um conhecimento bastante sólido no front-end, tenho buscado me especializar no Swift para o desenvolvimento profissional.
+- Atualmente trabalho em construção de aplicações frontend, feitas em NEXT.js. 
+- Em paralelo trabalho em dois projetos pessoais, que envolvem Java para Android Nativo e API e Swift para iOS.
 <div align="center">
   <a href="https://github.com/yuriwc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yuriwc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -21,10 +21,6 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
  
-## O que estou estudando
-  <div style="display: inline_block"><br>
-    <img align="center" alt="Swift" height="45" width="45" src="https://developer.apple.com/swift/images/swift-og.png">
-  </div>
 
 ## Contato
 
